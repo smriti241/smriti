@@ -1,9 +1,14 @@
 
 					GIT HUB
 
-GitHub is a web-based Git or version control repository and Internet hosting service. It is mostly used for code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
+GitHub is a web-based Git or version control repository and Internet hosting service. It is mostly used for code. 
+It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own 
+features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, 
+and wikis for every project.
 
-GitHub offers both plans for private and free repositories on the same account which are commonly used to host open-source software projects. As of April 2017, GitHub reports having almost 20 million users and 57 million repositories, making it the largest host of source code in the world.
+GitHub offers both plans for private and free repositories on the same account which are commonly used to host open-source software
+projects. As of April 2017, GitHub reports having almost 20 million users and 57 million repositories, making it the largest host
+of source code in the world.
 
                                         SCOPE
 GitHub is mostly used for code.
@@ -20,9 +25,18 @@ In addition to source code, GitHub supports the following formats and features:
     GitHub Pages: small websites can be hosted from public repositories on GitHub. The URL format is http://username.github.io.
     Nested task-lists within files
     Visualization of geospatial data
-    3D render files that can be previewed using a new integrated STL file viewer that displays the files on a "3D canvas".The viewer is powered by WebGL and Three.js.
+    3D render files that can be previewed using a new integrated STL file viewer that displays the files on a "3D canvas".The viewer 
+    is powered by WebGL and Three.js.
     Photoshop's native PSD format can be previewed and compared to previous versions of the same file.
-    PDF document viewer
+
+    
+                                      Licensing of repositories
+GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the Open Source Definition. 
+For that reason, it is essential for users and developers intending to use a piece of software found on GitHub to read the software 
+license in the repository (usually found in a top-level file called "LICENSE", "LICENSE.txt", or similar) to determine if it meets
+their needs[citation needed]. The Terms of Service state, "By setting your repositories to be viewed publicly, you agree to allow 
+others to view and fork your repositories."
+
                                         
                                           	History
 The shading of the map illustrates the number of users as a proportion of each country’s Internet population. 
