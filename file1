@@ -44,3 +44,7 @@ On 29 July 2015, GitHub announced it had raised $250 million in funding in a rou
 company at approximately $2 billion.
 In 2016, GitHub was ranked #14 on the Forbes Cloud 100 list.
 With the first release on July 21, 2017, Brave web browser features Github as one of its default search engines.
+
+						GitHub Enterprise
+GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development
+teams where the enterprise wishes to host their repositories behind a corporate firewall.
